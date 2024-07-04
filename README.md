@@ -1,2 +1,3 @@
 # drumkit
-Simple drumkit project
+ drumkit project
+
